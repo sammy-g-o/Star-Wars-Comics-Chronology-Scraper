@@ -9,7 +9,7 @@ pip install requests beautifulsoup4
 ## How to Use
 Make sure all prerequisites are installed.
 Run the script from your terminal:
-python "get chronological order for star wars comic series.txt"
+python starwars.py
 
 
 The script will connect to the youtini.com website, scrape the list of comic series, and save the reading order to a new file named starwars.txt.
